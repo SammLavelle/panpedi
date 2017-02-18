@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html> 
+<html>
 <head>
 	<title> Info | Pancakes Pedicures</title>
 	<?php include 'head.php';?>
