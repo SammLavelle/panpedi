@@ -33,6 +33,11 @@ body{
 	transform: translateY(-50%);
 	margin-left: 10%;
 }
+@media (max-width: 450px){
+	#logo {
+		width: 70%;
+	}
+}
 #burger{
 	display: none;
 }
@@ -78,6 +83,11 @@ a:hover{
     	z-index: 1;
     	top: 20px;
     	right: 20px;
+	}
+}
+@media(max-width: 450px){
+	#burger{
+		width:15%;
 	}
 }
 /*hero*/
@@ -187,6 +197,9 @@ hr{
 		float: none;
 	}
 }
+ul{
+	padding: 0;
+}
 /*index page*/
 /*carousel*/
 .carousel{
@@ -241,6 +254,14 @@ hr{
 	}
 	.quote{
 		margin-top: 100px;
+		margin-left: 5%;
+	}
+}
+@media (max-width: 450px){
+	.quote{
+		width: 74%;
+		padding-left:13%;
+		margin-left: 0;
 	}
 }
 /*icons*/
