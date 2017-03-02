@@ -58,6 +58,7 @@
 <div class="container">
 	<div class="brands">
 		<img src="img/othersites/panlogo.jpg">
+		<a href="http://slavelle.co.uk/pancakes-kitchen/"><img src="img/othersites/pankitchen.jpg"></a>
 	</div>
 </div>
 <hr>
